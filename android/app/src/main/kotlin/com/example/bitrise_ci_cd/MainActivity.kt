@@ -1,4 +1,4 @@
-package me.vyppn.bitrise_ci_cd
+package me.vyppn.fastlane
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
